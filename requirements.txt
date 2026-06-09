@@ -1,0 +1,7 @@
+web3
+requests
+python-dotenv
+streamlit
+pandas
+scikit-learn
+fpdf2
